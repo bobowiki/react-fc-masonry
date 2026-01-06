@@ -8,8 +8,8 @@
     "baseUrl": "./",
     "paths": {
       "@@/*": [".dumi/tmp/*"],
-      "react-masonry-fn": ["src"],
-      "react-masonry-fn/*": ["src/*", "*"]
+      "react-fc-masonry": ["src/index.ts"],
+      "react-fc-masonry/*": ["src/*", "*"]
     }
   },
   "include": [".dumirc.ts", "src/**/*"]

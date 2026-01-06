@@ -1,5 +1,5 @@
 import React from 'react';
-import { Masonry } from '../index';
+import { Masonry } from 'react-fc-masonry';
 
 const list = Array.from({ length: 20 }).map((_, index) => ({
   id: index + 1,

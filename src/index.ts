@@ -1,1 +1,1 @@
-export { Masonry, type MasonryProps } from './react-masonry';
+export { Masonry, type MasonryProps } from './react-fc-masonry';

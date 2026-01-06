@@ -1,9 +1,10 @@
 {
-  "name": "react-masonry",
+  "name": "react-fc-masonry",
   "version": "1.0.0",
-  "description": "A react library developed with dumi",
+  "description": "A react function component masonry layout library.",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
+  "homepage": "https://bobowiki.github.io/react-masonry",
   "scripts": {
     "start": "npm run dev",
     "dev": "dumi dev",
